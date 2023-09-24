@@ -1,3 +1,6 @@
+import {ExpenseDate} from './ExpenseDate';
+import {Card} from '../UI/Card';
+
 export const ExpenseItem = (props) => {
     return(
         <li>

@@ -1,3 +1,5 @@
+import {ExpenseItem} from './ExpenseItem';
+
 export const ExpensesList = (props) => {
 
     if(props.items.length===0){
